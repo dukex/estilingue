@@ -1,4 +1,4 @@
-Copyright (c) 2012 Duke
+Copyright (c) 2012 Emerson Moreira, Renato Elias
 
 MIT License
 
